@@ -1,0 +1,10 @@
+baseURL = "https://KenDillard.github.io/bookshelf"
+
+languageCode = "en-us"
+
+title = "Ken Dillard Book Reviews"
+
+
+[Params]
+
+Author = "Ken Dillard"
